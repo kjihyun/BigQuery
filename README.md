@@ -1,2 +1,2 @@
 # BigQuery
-Analyzing (Web andApp) user behavior patterns on LGE.COM
+Analyzing (Web and App) user behavior patterns on LGE.COM
